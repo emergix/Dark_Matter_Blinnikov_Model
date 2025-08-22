@@ -5,7 +5,7 @@
 
 📄 **Read the paper**: [Тёмное_Зазеркалые (Texte Russe)](./Тёмное_Зазеркалые_txt.pdf)
 
-📄 **Read the Document**: [Matiere_Noire (Francais)](./Matiere_Noire.docx)
+📄 **Read the Document**: [Matiere_Noire (Francais)](./Matiere_Noire.pdf)
 
 ## Introduction
 We believe we see the entire Universe around us, but astrophysicists remind us that most of it is actually **invisible**.  
