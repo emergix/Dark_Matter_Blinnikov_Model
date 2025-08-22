@@ -3,7 +3,7 @@
 
 📄 **Read the paper**: [Тёмное_Зазеркалые_(Article Russe)](./Тёмное_Зазеркалые_%20orig.pdf)
 
-📄 **Read the paper**: [Тёмное_Зазеркалые (Texte Russe)](./Тёмное_Зазеркалые_%20orig.docx)
+📄 **Read the paper**: [Тёмное_Зазеркалые (Texte Russe)](./Тёмное_Зазеркалые_txt.docx)
 
 📄 **Read the Document**: [Matiere_Noire (Francais)](./Matiere_Noire.docx)
 
