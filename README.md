@@ -86,6 +86,11 @@ Two main paths are being explored:
 In both cases, the quest continues: to observe, to measure, and to push the boundaries of our models.
 
 ---
+## Exercices in russian associated with this text
+
+📄 **Read the Document**: [Упражне́ния по статья́ “Тёмно_е зазеркалье” (Russe)](./Упражне́ния по статья́ “Тёмно_е зазеркалье”.pdf)
+
+
 
 ## 📚 References
 - Rubin, V. C., Ford, W. K. Jr. (1970). *Rotation of the Andromeda Nebula from a Spectroscopic Survey of Emission Regions*. Astrophysical Journal, 159, 379.  
