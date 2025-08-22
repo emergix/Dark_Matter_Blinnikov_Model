@@ -1,7 +1,11 @@
 # 🌌 Тёмное Зазеркалье
 # 🌌 Dark Mirror — The Hidden World of Dark Matter
 
-Тёмное_Зазеркалые_%20orig.
+📄 **Read the paper**: [Тёмное_Зазеркалые_(Article Russe)](./Тёмное_Зазеркалые_%20orig.pdf)
+
+📄 **Read the paper**: [Тёмное_Зазеркалые (Texte Russe)](./Тёмное_Зазеркалые_%20orig.docx)
+
+📄 **Read the Document**: [Matiere_Noire (Francais)](./Matiere_Noire.docx)
 
 ## Introduction
 We believe we see the entire Universe around us, but astrophysicists remind us that most of it is actually **invisible**.  
